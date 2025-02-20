@@ -98,8 +98,6 @@ int main (){
     printf("\nO poder da sua cidade = %.0f\n", superpoder1);
 
     //comparação
-    printf("\nCOMPARAÇÃO\n");
-    printf("Maior população: %d");
 
     printf("\nComparação de Cartas:\n");
 
